@@ -13,6 +13,7 @@ There are two datasets:
    The independent dataset, "TS_starPep_AV.fasta" contains 740 peptide sequences (623 positive and 623 negative samples).
 
 3. Feature Extraction
+
    a. ProtGPT2 used to encode training samples using Protein Generative Pre-Trained Transformer
    
    b. RECM_CLBP (Completed Local Binary Pattern based Residue energy contact Matrix)
@@ -21,7 +22,7 @@ There are two datasets:
 
    d. QLC 
 
-4.	Two-tier Feature Selection 
+5.	Two-tier Feature Selection 
 
   	 Shuffled frog leaping algorithm (SFLA) and Maximum Relevance and Maximum Diversity (MRMD)
  
